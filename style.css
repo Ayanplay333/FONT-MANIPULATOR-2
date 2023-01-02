@@ -1,5 +1,5 @@
 .footer{
-    background-color:grey ;
+    background-color:darkkhaki ;
     line-height: 3;
     position: fixed;
     width: 100%;
@@ -17,7 +17,7 @@ box-shadow: 5px 5px 5px gray;
     font-size: 15px;
 }
 canvas{
-    border: 3px darkcyan solid;
+    border: 3px yellow solid;
     border-radius: 10px ;
     box-shadow: 5px 5px 5px gray;
 }
